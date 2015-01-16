@@ -163,4 +163,3 @@ class MachineWithStaticInitialStateTest < BaseTestCase
     super
   end
 end
-
